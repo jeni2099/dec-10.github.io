@@ -4,7 +4,7 @@ body {
     justify-content: center;
     align-items: center;
     font-family: 'Merriweather Sans', sans-serif;
-    background: url(sprinkle.svg);
+    background: url(sprinkle\.svg);
 }
 
 .container {
